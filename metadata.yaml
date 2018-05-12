@@ -1,0 +1,28 @@
+_repo: Holidays-at-the-Grange-or-A-Week-s-DelightGames-and-Stories-for-Parlor-and-Fireside_18907
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18907-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Higgins, Emily Mayer
+    alias: Mayer, Emily
+    gutenberg_agent_id: '8327'
+    url: http://www.gutenberg.org/2009/agents/8327
+description: ''
+gutenberg_issued: '2006-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18907'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Amusements -- Juvenile literature'
+- !lcsh 'Children''s stories'
+- !lcsh 'Indoor games -- Juvenile literature'
+- !lcc 'GV'
+title: "Holidays at the Grange; or, A Week's Delight\r\nGames and Stories for Parlor\
+  \ and Fireside"
+url: http://www.gutenberg.org/ebooks/18907
